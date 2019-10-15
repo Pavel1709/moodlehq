@@ -45,12 +45,12 @@ body {
   font-size: 16px;
   font-size: 1rem;
   line-height: 24px;
-  background: #fa8f1c url(../img/bg-orange.png);
+  background: #0000ff url(../img/bg-orange.png);
 }
 /* =1.3 - Links
 --------------------------------------------------------*/
 a {
-  color: #0088cc;
+  color: #0000ff;
   text-decoration: none;
 }
 a:focus {
@@ -164,7 +164,7 @@ input[disabled] {
   cursor: default;
 }
 textarea {
-  border: 1px solid #e0e0e0;
+  border: 1px solid #0000ff;
   border-radius: 0.30769rem;
   overflow: auto;
   padding: 0.61538rem;
@@ -179,13 +179,13 @@ select {
 button {
   padding-left: 13pt;
   padding-right: 13pt;
-  background: -webkit-linear-gradient(top, #fefefe, #e7e7e7);
+  background: -webkit-linear-gradient(top, #fefefe, #e0000ff);
   border-radius: 4pt;
-  border: 1pt solid #CCC;
-  border-bottom: #B3B3B3;
+  border: 1pt solid #0000ff;
+  border-bottom: #0000ff;
   height: 30pt;
   width: 40%;
-  color: #666;
+  color: #0000ff;
 }
 .phone button {
   width: 60%;
@@ -229,10 +229,10 @@ hr {
 }
 .nav .nav-item {
   float: left;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #0000ff;
 }
 .nav .nav-item a {
-  color: #666666;
+  color: #0000ff;
 }
 .nav .nav-item > a {
   cursor: pointer;
@@ -270,11 +270,11 @@ hr {
   position: relative;
   display: inline-block;
   padding: 4px 12px;
-  color: #333;
+  color: #0000ff;
   text-align: center;
   text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.75);
-  background-color: #F5F5F5;
-  background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
+  background-color: #0000ff;
+  background-image: linear-gradient(to bottom, #0000ff, #e0000ff);
   background-repeat: repeat-x;
   border-width: 1px;
   border-style: solid;
@@ -376,7 +376,7 @@ hr {
 #add-site input {
   width: 100%;
   padding: 4px 6px;
-  border: 1px solid #CCC;
+  border: 1px solid #0000ff;
   border-radius: 4px;
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset;
   line-height: 24px;
@@ -389,12 +389,12 @@ hr {
   color: #333;
   text-align: center;
   text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.75);
-  background-color: #F5F5F5;
-  background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
+  background-color: #0000ff;
+  background-image: linear-gradient(to bottom, #0000ff, #0000ff);
   background-repeat: repeat-x;
   border-width: 1px;
   border-style: solid;
-  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) #b3b3b3;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) #0000ff;
   border-radius: 4px;
   box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.2) inset, 0px 1px 2px rgba(0, 0, 0, 0.05);
   margin-top: 20px;
@@ -410,12 +410,12 @@ hr {
   color: #333;
   text-align: center;
   text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.75);
-  background-color: #F5F5F5;
-  background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
+  background-color: #0000ff;
+  background-image: linear-gradient(to bottom, #0000ff, #0000ff);
   background-repeat: repeat-x;
   border-width: 1px;
   border-style: solid;
-  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) #b3b3b3;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) #0000ff;
   border-radius: 4px;
   box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.2) inset, 0px 1px 2px rgba(0, 0, 0, 0.05);
   margin-top: 15px;
@@ -432,7 +432,7 @@ hr {
   display: none;
 }
 #add-site #helplogin a {
-  color: #ffffff;
+  color: #0000ff;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
   letter-spacing: .5px;
   display: inline-block;
@@ -455,7 +455,7 @@ hr {
 }
 #manage-accounts .account-details,
 #app-dialog .account-details {
-  color: #666666;
+  color: #0000ff;
 }
 #manage-accounts .account-details img,
 #app-dialog .account-details img {
@@ -476,7 +476,7 @@ hr {
 #app-dialog .account-details div:hover,
 #manage-accounts .account-details div:focus,
 #app-dialog .account-details div:focus {
-  background-color: #f5f5f5;
+  background-color: #0000ff;
 }
 #manage-accounts .account-details span,
 #app-dialog .account-details span {
@@ -509,11 +509,11 @@ hr {
   margin-bottom: 44px;
 }
 .header-main {
-  color: #ffffff;
+  color: #0000ff;
   height: 44px;
   line-height: 44px;
   overflow: hidden;
-  background: #fa8f1c;
+  background: #0000ff;
   border-bottom: 0;
 }
 .header-main .nav-main {
@@ -589,19 +589,19 @@ hr {
 }
 #panel-right,
 #panel-center {
-  background: #ffffff;
+  background: #0000ff;
   box-shadow: -10px 0 30px 0 rgba(0, 0, 0, 0.2);
 }
 /* - User menu on the left panel
 -------------------------------------------------------------------------- */
 .user-menu {
-  background: #fa8f1c;
+  background: #0000ff;
   padding-bottom: 40px;
   height: auto;
 }
 .user-menu header {
   padding: 10px;
-  background: #fa8f1c;
+  background: #0000ff;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   box-shadow: none;
 }
@@ -613,12 +613,12 @@ hr {
 .user-menu header h1 {
   font-size: 20px;
   font-size: 1.25rem;
-  color: #ffffff;
+  color: #0000ff;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
   margin: 5px 0 0;
 }
 .user-menu h2 {
-  color: #ffffff;
+  color: #0000ff;
   font-size: .75rem;
   text-transform: uppercase;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
@@ -633,7 +633,7 @@ hr {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 .user-menu .nav-item > a {
-  color: #ffffff;
+  color: #0000ff;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
   letter-spacing: .5px;
 }
@@ -717,7 +717,7 @@ hr {
   position: relative;
 }
 .content-index header {
-  border-top: 1px solid #eee;
+  border-top: 1px solid #0000ff;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 .content-index header h2 {
@@ -725,7 +725,7 @@ hr {
   margin-bottom: 0;
 }
 .content-index section:last-of-type {
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #0000ff;
 }
 .content-index p {
   margin: 0;
@@ -759,7 +759,7 @@ hr {
 .content-index .content-name.mod-label a > div h4,
 .content-index .content-name.mod-label a > div h5,
 .content-index .content-name.mod-label a > div h6 {
-  color: #666666;
+  color: #0000ff;
   font-weight: bold;
   line-height: inherit;
   letter-spacing: 0;
@@ -808,7 +808,7 @@ hr {
 .arrow_box {
   padding: 8px;
   position: relative;
-  background: #fff;
+  background: #0000ff;
   border: 2px solid #ccc;
   -webkit-border-radius: 8px;
 }
@@ -825,13 +825,13 @@ hr {
 }
 .arrow_box:after {
   border-color: rgba(255, 255, 255, 0);
-  border-left-color: #fff;
+  border-left-color: #0000ff;
   border-width: 8px;
   margin-top: -5px;
 }
 .arrow_box:before {
   border-color: rgba(204, 204, 204, 0);
-  border-left-color: #ccc;
+  border-left-color: #0000ff;
   border-width: 11px;
   margin-top: -8px;
 }
@@ -841,11 +841,11 @@ hr {
   word-wrap: break-word;
 }
 .path-mod-forum .forum {
-  border-bottom: 15px solid #eee;
+  border-bottom: 15px solid #0000ff;
 }
 .path-mod-forum .forum > .content-name {
   padding: 10px;
-  border-top: 1px solid #eee;
+  border-top: 1px solid #0000ff;
 }
 .path-mod-forum .forum .post-info {
   margin-left: 32px;
@@ -886,7 +886,7 @@ hr {
   display: block;
 }
 .path-mod-forum .subject {
-  color: #0088cc;
+  color: #0000ff;
   padding: 10px;
   margin-left: 50px;
   border-top: 1px solid #eee;
@@ -911,7 +911,7 @@ hr {
   padding: 0;
   line-height: 20px;
   margin-top: 2px;
-  color: #666666;
+  color: #0000ff;
 }
 .path-mod-forum .attachments .content-actions {
   width: 40px;
@@ -948,7 +948,7 @@ hr {
   margin: 4px;
 }
 .path-mod-forum.forum-discussion .indent {
-  border-top: 15px solid #eee;
+  border-top: 15px solid #0000ff;
 }
 .path-mod-assign .intro {
   padding: 10px;
@@ -956,7 +956,7 @@ hr {
 }
 .path-mod-assign .info {
   padding: 10px 10px 10px 0;
-  border-top: 1px solid #eee;
+  border-top: 1px solid #0000ff;
   margin-left: 14px;
 }
 .path-mod-assign .info p {
@@ -993,7 +993,7 @@ hr {
 }
 .path-mod-assign time {
   font-size: .75rem;
-  color: #888;
+  color: #0000ff;
   display: inline;
 }
 .path-mod-assign .status {
@@ -1003,7 +1003,7 @@ hr {
   padding: 0 10px 10px;
   margin-left: 50px;
   clear: right;
-  border-top: 1px solid #eee;
+  border-top: 1px solid #0000ff;
 }
 .path-mod-assign .content p {
   padding-top: 10px;
@@ -1015,7 +1015,7 @@ hr {
   padding: 0;
   line-height: 20px;
   margin-top: 2px;
-  color: #666666;
+  color: #0000ff;
 }
 .path-mod-assign .attachments .content-actions {
   width: 40px;
@@ -1071,7 +1071,7 @@ hr {
 .notification {
   padding: 0 10px;
   margin-bottom: 10px;
-  background-color: #eee;
+  background-color: #0000ff;
 }
 .message:first-of-type,
 .notification:first-of-type {
@@ -1095,11 +1095,11 @@ hr {
   word-break: break-word;
   padding: 20px;
   margin-bottom: 0;
-  background-color: #fff;
+  background-color: #0000ff;
 }
 .message .content a,
 .notification .content a {
-  color: #0088cc;
+  color: #0000ff;
 }
 .message .actions,
 .notification .actions {
@@ -1125,7 +1125,7 @@ hr {
   font-weight: normal;
 }
 .path-messages .conversation {
-  background-color: #ffffff;
+  background-color: #0000ff;
   position: absolute;
   margin-right: 50px;
 }
@@ -1139,10 +1139,10 @@ hr {
   clear: both;
 }
 .path-messages .conversation .conversation-area .datestamp span {
-  color: #fff;
+  color: #0000ff;
   font-size: .75rem;
   font-weight: bold;
-  background-color: #c9c9c9;
+  background-color: #0000ff;
   padding: 2px 10px;
   border-radius: 10px;
 }
@@ -1153,7 +1153,7 @@ hr {
   margin-bottom: 10px;
   width: auto;
   max-width: 90%;
-  background: #ffffff;
+  background: #0000ff;
   border: 1px solid rgba(0, 0, 0, 0.3);
   border-radius: 6px;
   float: left;
@@ -1176,13 +1176,13 @@ hr {
 }
 .path-messages .conversation .conversation-area .bubble:after {
   border-width: 7px;
-  border-right-color: #ffffff;
+  border-right-color: #0000ff;
   top: 9px;
   left: -14px;
 }
 .path-messages .conversation .conversation-area .bubble-alt {
-  background-color: #ffffff;
-  border-color: #fa8f1c;
+  background-color: #0000ff;
+  border-color: #0000ff;
   float: right;
 }
 .path-messages .conversation .conversation-area .bubble-alt:before {
@@ -1193,7 +1193,7 @@ hr {
 }
 .path-messages .conversation .conversation-area .bubble-alt:after {
   border-color: transparent;
-  border-left-color: #ffffff;
+  border-left-color: #0000ff;
   left: auto;
   right: -14px;
 }
@@ -1278,7 +1278,7 @@ hr {
   padding-right: 15px;
 }
 .path-messages.contact .nav-item a {
-  color: #0088cc;
+  color: #0000ff;
 }
 .events-list .name {
   line-height: 20px;
@@ -1293,7 +1293,7 @@ hr {
   padding: 10px;
 }
 .event {
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #0000ff;
 }
 .event header {
   padding: 10px;
@@ -1337,7 +1337,7 @@ hr {
   border-collapse: collapse;
   line-height: 20px;
   width: 100%;
-  border-top: 1px solid #e0e0e0;
+  border-top: 1px solid #0000ff;
 }
 .grades thead,
 .grades th,
@@ -1363,7 +1363,7 @@ hr {
 .grades td {
   position: relative;
   padding: 10px 10px 10px 40%;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #0000ff;
   vertical-align: top;
   min-height: 44px;
 }
@@ -1374,11 +1374,11 @@ hr {
   content: attr(data-lang);
 }
 .grades .section-name {
-  color: #666666;
+  color: #0000ff;
   letter-spacing: .5px;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
-  background-color: #eeeeee;
-  border-bottom: 1px solid #ffffff;
+  background-color: #0000ff;
+  border-bottom: 1px solid #0000ff;
 }
 .grades .section-name th {
   font-weight: normal;
@@ -1407,10 +1407,10 @@ hr {
 /* - Participant on the right panel and Notification page on the center panel
 -------------------------------------------------------------------------- */
 .user-card {
-  border-top: 1px solid #eee;
+  border-top: 1px solid #0000ff;
 }
 .user-card .content {
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #0000ff;
 }
 .user-card .user-picture {
   padding: 10px;
@@ -1437,7 +1437,7 @@ hr {
   list-style: none;
 }
 .user-card .user-data li {
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #0000ff;
   padding: 10px;
 }
 .user-card .user-data li:last-child {
@@ -1455,7 +1455,7 @@ hr {
 /* - Settings on the right panel
 -------------------------------------------------------------------------- */
 .settings {
-  border-top: 1px solid #eee;
+  border-top: 1px solid #0000ff;
 }
 .settings .nav-item {
   padding: 10px;
@@ -1540,16 +1540,16 @@ hr {
 }
 .settings .about td {
   padding: 10px;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #0000ff;
   vertical-align: top;
   min-height: 44px;
 }
 .settings .about .section-name {
-  color: #666666;
+  color: #0000ff;
   letter-spacing: .5px;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
-  background-color: #eeeeee;
-  border-bottom: 1px solid #ffffff;
+  background-color: #0000ff;
+  border-bottom: 1px solid #0000ff;
 }
 /* - Dialog window
 -------------------------------------------------------------------------- */
@@ -1573,7 +1573,7 @@ hr {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: auto;
-  background-color: #fff;
+  background-color: #0000ff;
   -webkit-border-radius: 14px 14px 10px 10px;
   -moz-border-radius: 14px 14px 10px 10px;
   border-radius: 14px 14px 10px 10px;
@@ -1581,28 +1581,28 @@ hr {
 #app-dialog .modalHeader {
   font-size: 16px;
   font-size: 1rem;
-  color: #ffffff;
+  color: #0000ff;
   letter-spacing: .5px;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
   padding: 10px;
-  background-color: #fa8f1c;
+  background-color: #0000ff;
   -webkit-border-radius: 10px 10px 0 0;
   -moz-border-radius: 10px 10px 0 0;
   border-radius: 10px 10px 0 0;
 }
 #app-dialog .modalHeader a {
-  color: #FFFFFF;
+  color: #0000ff;
 }
 #app-dialog .modalContent {
   padding: 20px;
   text-align: center;
 }
 #app-dialog .modalContent textarea {
-  color: #666666;
+  color: #0000ff;
 }
 #app-dialog .modalFooter {
   text-align: center;
-  border-top: 1px solid #ddd;
+  border-top: 1px solid #0000ff;
 }
 #app-dialog .modalFooter button {
   margin: 10px;
@@ -1620,16 +1620,16 @@ hr {
 }
 .jqifade {
   position: absolute;
-  background-color: #aaaaaa;
+  background-color: #0000ff;
 }
 div.jqi {
   width: 400px;
   font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
   position: absolute;
-  background-color: #ffffff;
+  background-color: #0000ff;
   font-size: 11px;
   text-align: left;
-  border: solid 1px #eeeeee;
+  border: solid 1px #0000ff;
   border-radius: 10px;
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
@@ -1644,37 +1644,37 @@ div.jqi .jqiclose {
   right: -2px;
   width: 18px;
   cursor: default;
-  color: #bbbbbb;
+  color: #0000ff;
   font-weight: bold;
 }
 div.jqi .jqimessage {
   padding: 10px;
   line-height: 20px;
-  color: #444444;
+  color: #0000ff;
 }
 div.jqi .jqibuttons {
   text-align: right;
   padding: 5px 0 5px 0;
-  border: solid 1px #eeeeee;
-  background-color: #f4f4f4;
+  border: solid 1px #0000ff;
+  background-color: #0000ff;
 }
 div.jqi button {
   padding: 3px 10px;
   margin: 0 10px;
-  background-color: #2F6073;
-  border: solid 1px #f4f4f4;
-  color: #ffffff;
+  background-color: #0000ff;
+  border: solid 1px #0000ff;
+  color: #0000ff;
   font-weight: bold;
   font-size: 12px;
 }
 div.jqi button:hover {
-  background-color: #728A8C;
+  background-color: #0000ff;
 }
 div.jqi button.jqidefaultbutton {
-  background-color: #BF5E26;
+  background-color: #0000ff;
 }
 .jqiwarning .jqi .jqibuttons {
-  background-color: #BF5E26;
+  background-color: #0000ff;
 }
 .jqi .jqiarrow {
   position: absolute;
@@ -1687,66 +1687,66 @@ div.jqi button.jqidefaultbutton {
 .jqi .jqiarrowtl {
   left: 10px;
   top: -20px;
-  border-bottom-color: #ffffff;
+  border-bottom-color: #0000ff;
 }
 .jqi .jqiarrowtc {
   left: 50%;
   top: -20px;
-  border-bottom-color: #ffffff;
+  border-bottom-color: #0000ff;
   margin-left: -10px;
 }
 .jqi .jqiarrowtr {
   right: 10px;
   top: -20px;
-  border-bottom-color: #ffffff;
+  border-bottom-color: #0000ff;
 }
 .jqi .jqiarrowbl {
   left: 10px;
   bottom: -20px;
-  border-top-color: #ffffff;
+  border-top-color: #0000ff;
 }
 .jqi .jqiarrowbc {
   left: 50%;
   bottom: -20px;
-  border-top-color: #ffffff;
+  border-top-color: #0000ff;
   margin-left: -10px;
 }
 .jqi .jqiarrowbr {
   right: 10px;
   bottom: -20px;
-  border-top-color: #ffffff;
+  border-top-color: #0000ff;
 }
 .jqi .jqiarrowlt {
   left: -20px;
   top: 10px;
-  border-right-color: #ffffff;
+  border-right-color: #0000ff;
 }
 .jqi .jqiarrowlm {
   left: -20px;
   top: 50%;
-  border-right-color: #ffffff;
+  border-right-color: #0000ff;
   margin-top: -10px;
 }
 .jqi .jqiarrowlb {
   left: -20px;
   bottom: 10px;
-  border-right-color: #ffffff;
+  border-right-color: #0000ff;
 }
 .jqi .jqiarrowrt {
   right: -20px;
   top: 10px;
-  border-left-color: #ffffff;
+  border-left-color: #0000ff;
 }
 .jqi .jqiarrowrm {
   right: -20px;
   top: 50%;
-  border-left-color: #ffffff;
+  border-left-color: #0000ff;
   margin-top: -10px;
 }
 .jqi .jqiarrowrb {
   right: -20px;
   bottom: 10px;
-  border-left-color: #ffffff;
+  border-left-color: #0000ff;
 }
 /* - Tablet minimum width 768px
 -------------------------------------------------------------------------- */
@@ -1792,10 +1792,10 @@ div.jqi button.jqidefaultbutton {
   border-collapse: collapse;
   line-height: 20px;
   width: 100%;
-  border-top: 1px solid #eee;
+  border-top: 1px solid #0000ff;
 }
 .user-grade tr {
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #0000ff;
 }
 .user-grade th,
 .user-grade td {
@@ -1846,12 +1846,12 @@ div.jqi button.jqidefaultbutton {
 .user-grade .dimmed_text,
 .user-grade .hidden,
 .user-grade .hidden a {
-  color: #aaa;
+  color: #0000ff;
 }
 .user-grade .oddd1,
 .user-grade .oddd3,
 .user-grade .evend3 {
-  background-color: #eee;
+  background-color: #0000ff;
 }
 .user-grade .oddd1.b1b,
 .user-grade .oddd3.b1b,
@@ -1859,23 +1859,23 @@ div.jqi button.jqidefaultbutton {
 .user-grade .oddd1.b1l,
 .user-grade .oddd3.b1l,
 .user-grade .evend3.b1l {
-  border-top: 1px solid #fff;
+  border-top: 1px solid #0000ff;
 }
 .user-grade .oddd2,
 .user-grade .evend2,
 .user-grade .oddd4,
 .user-grade .evend4 {
-  background-color: #f9f9f9;
+  background-color: #0000ff;
 }
 .user-grade .levelodd {
-  background-color: #eee;
+  background-color: #0000ff;
 }
 .user-grade .levelodd.b1b,
 .user-grade .levelodd.b1l {
-  border-top: 1px solid #fff;
+  border-top: 1px solid #0000ff;
 }
 .user-grade .leveleven {
-  background-color: #fff;
+  background-color: #0000ff;
 }
 /* - Upload file (Android)
 -------------------------------------------------------------------------- */
@@ -1909,7 +1909,7 @@ div.jqi button.jqidefaultbutton {
   display: none;
 }
 #app-dialog.full-screen-dialog .modalContent {
-  color: #fff;
+  color: #0000ff;
 }
 #app-dialog.full-screen-dialog .modalFooter {
   border-top: 0px;
